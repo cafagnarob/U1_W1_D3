@@ -1,102 +1,100 @@
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
-header{
-    text-align: center;
+header {
+  text-align: center;
 }
 
-header hr{
-    border: 1.5px solid #efdbac;
-    margin: 0;
+header hr {
+  border: 1.5px solid #efdbac;
+  margin: 0;
 }
 
 main {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-main video{
-    width: 100%;
-    box-shadow: 10px 10px 5px #dedede ;
-    border-radius: 6px;
+main video {
+  width: 100%;
+  box-shadow: 10px 10px 5px #dedede;
+  border-radius: 6px;
 }
 
-main img{
-    width: 15%;
-    border-radius: 100px;
+main img {
+  width: 15%;
+  border-radius: 100px;
 }
 
-main p{
-    font-size: 0.7em;
+main p {
+  font-size: 0.7em;
 }
 
-main h1{
-    font-size: 1.5em;
+main h1 {
+  font-size: 1.5em;
 }
 
-#logo img{
-    width: 20%;
-    margin: 10px 0
+#logo img {
+  width: 20%;
+  margin: 10px 0;
 }
 
-h4{
-    font-weight: 300;
-    margin: 0;
-    background-color: #fdfbf1;
-    color: #437875;
-    font-size: 0.8em;
-    padding: 10px;
+h4 {
+  font-weight: 300;
+  margin: 0;
+  background-color: #fdfbf1;
+  color: #437875;
+  font-size: 0.8em;
+  padding: 10px;
 }
 
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
 span {
-    font-weight: 900;
-
+  font-weight: 900;
 }
 
-
-#focaccia_foto p{
-    text-align: center;
-    color: gray;
+#focaccia_foto p {
+  text-align: center;
+  color: gray;
 }
 
-h6{
-    color:#c97952;
-    margin: 0;
+h6 {
+  color: #c97952;
+  margin: 0;
 }
 
-.link{
-    color: rgb(82, 134, 152);
-    font-size: 0.8em;
+.link {
+  color: rgb(82, 134, 152);
+  font-size: 0.8em;
 }
 
-.for_the{
-    font-weight: bold;
+.for_the {
+  font-weight: bold;
 }
 
-h3{
-    font-weight: normal;
+h3 {
+  font-weight: normal;
 }
 
-li{
-    margin-bottom: 10px;
-    font-size: 0.8em;
+li {
+  margin-bottom: 10px;
+  font-size: 0.8em;
 }
 
-ol p{
-    font-size: 1em;
-    font-weight: normal;
+ol p {
+  font-size: 1em;
+  font-weight: normal;
 }
 
-#featured{
-    border-left: 1px solid #ffd877;
-    padding-left: 10px;
+#featured {
+  border-left: 1px solid #ffd877;
+  padding-left: 10px;
 }
 
-.linea{
-    border: 0.1em solid lightblue;
+.linea {
+  border: 0.1em solid lightblue;
 }
